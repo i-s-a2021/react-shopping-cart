@@ -1,4 +1,0 @@
-TypeScript Tip: Type VS Interface
-
-Use type when you might need a union or intersection and use interface when you want extends or implements.
-
